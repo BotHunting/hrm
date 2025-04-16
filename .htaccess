@@ -1,0 +1,5 @@
+# .htaccess untuk website di direktori hrm
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^hrm\.bot [NC]
+RewriteRule ^(.*)$ http://hrm.bot/$1 [L,R=301]
