@@ -1,9 +1,9 @@
 <?php
 // Konfigurasi koneksi database
-$host = "localhost"; // Host database (biasanya localhost)
-$username = "root"; // Nama pengguna database
-$password = ""; // Kata sandi database
-$database = "sim_hrm"; // Nama database
+$host = "sql12.freesqldatabase.com"; // Host database (biasanya localhost)
+$username = "sql12773598"; // Nama pengguna database
+$password = "IXRNLTKKCt"; // Kata sandi database
+$database = "sql12773598"; // Nama database
 
 // Membuat koneksi ke database
 $koneksi = new mysqli($host, $username, $password, $database);
