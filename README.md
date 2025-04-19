@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/150x150.png?text=SIM+HRM](http://github.com/BotHunting/hrm/blob/main/assets/img/logo.gif)http://github.com/BotHunting/hrm/blob/main/assets/img/logo.gif" alt="Logo SIM Human Resource Management" width="150">
+  <img src="https://cdn.glitch.global/96f29785-b63e-45ec-b9a1-b4342b543c72/download.gif?v=1745090501504" alt="Logo SIM Human Resource Management" width="150">
 </p>
 
 <h1 align="center">SIM Human Resource Management</h1>
