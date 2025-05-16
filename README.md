@@ -1,115 +1,75 @@
-<p align="center">
-  <img src="https://cdn.glitch.global/96f29785-b63e-45ec-b9a1-b4342b543c72/download.gif?v=1745090501504" alt="Logo SIM Human Resource Management" width="150">
-</p>
+=============================================================================================
+Website Ini Di Dikembangkan Bot Hunting Company Limited
+=============================================================================================
 
-<h1 align="center">SIM Human Resource Management</h1>
+Author		: Bot Hunting
+TikTok		: @bot.hunting
+Web/Blog	: https://github.com/BotHunting
 
-<p align="center">
-  <a href="https://github.com/BotHunting/hrm"><img src="https://img.shields.io/github/repo-size/BotHunting/sim_hrm" alt="Repo Size"></a>
-  <a href="https://github.com/BotHunting/hrm/commits/main"><img src="https://img.shields.io/github/last-commit/BotHunting/sim_hrm" alt="Last Commit"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="Status"></a>
-  <a href="https://github.com/BotHunting"><img src="https://img.shields.io/badge/Download-Aplikasi-blue" alt="Download Aplikasi"></a>
-</p>
+==============================================================================================
+>>> Download Aplikasi Kebutuhanmu 'https://github.com/BotHunting'<<<
+==============================================================================================
 
----
+Website SIM Human Resource Management
 
-## ✨ Deskripsi Proyek
+To connect to your database use these details; sim.hrm@mailnesia.com
+Your account number is: 1285979
+Host: sql12.freesqldatabase.com
+Database name: sql12773598
+Database user: sql12773598
+Database password: IXRNLTKKCt
+Port number: 3306
 
-Website ini dikembangkan oleh **Bot Hunting Company Limited** untuk mendukung pengelolaan dan manajemen sumber daya manusia secara digital. Proyek **SIM Human Resource Management** ini bertujuan untuk memberikan solusi yang efisien bagi perusahaan dalam mengatur data karyawan, laporan grafik, dan berbagai fitur manajemen lainnya.
 
----
-
-## 👤 Informasi Pengembang
-
-- **Author:** Bot Hunting  
-- **TikTok:** [@bot.hunting](https://www.tiktok.com/@bot.hunting)  
-- **Web/Blog:** [BotHunting](https://github.com/BotHunting)  
-
----
-
-## 🔗 Download Aplikasi
-
-Untuk kebutuhanmu, silakan download aplikasi melalui:  
-👉 [https://github.com/BotHunting](https://github.com/BotHunting)
-
----
-
-## 🛠️ Riwayat Versi
-
-### Versi 3.0
+Versi 3.0
 - Upgrade UI Bootstrap
-- Fix bug UI
-- Ganti foto
+- fix bug UI
+- ganti foto
 
-### Versi 2.5
-- Perapian kode
-- Fix bug navbar
-- Update CSS
-- Fix bug toggle
+Versi 2.5
+- perapian kode
+- fix bug navbar
+- update css
+- fix bug toggle
 
-### Versi 2.4
-- Navbar statis
-- Penyesuaian toggle
-- Fix panggil kinerja
-- Fig panggil gaji harian
-- Fix bug foto
-- Perbaikan absen sesuai pengguna
-- Simpan foto di folder image
-- Bug fungsi update data
-- Perbarui foto
-- Tambah tab profil
-- Tambah foto
-- Update tabel SQL
+Versi 2.4
+- navbar statis
+- penyesuaian toggle
+- fix panggil kinerja
+- fig panggil gaji harian
+- fix bug foto
+- perbaikan absen sesuai pengguna
+- simpan foto di folder image
+- bug fungsi update data
+- perbarui foto
+- tambah tab profil
+- tambah foto
+- update tabel sql
 
-### Versi 2.3
-- Scroll tabel horizon
-- Perbaikan tampilan mobile browser
-- Fix tabel
-- Tambahan toggle
+Versi 2.3
+- scroll tabel horizon
+- perbaikan tampilan mobile browser
+- fix tabel
+- tambahan toggle
 
-### Versi 2.2
-- Perbaikan UI cetak
-- Fix tombol penambahan data
-- Penambahan rule jabatan login
+Versi 2.2
+- perbaikan UI cetak
+- fix tombol penambahan data
+- penambahan rule jabatan login
 
-### Versi 2.1
-- Perbaikan tabel
-- Tambahan JS tombol
-- Perapian UI
-- Fix tombol tambah
-- Fix bug login jabatan
-- Fix bug tab per jabatan
+Versi 2.1
+- perbaikan tabel
+- tambahan js tombol
+- perapian UI
+- fix tombol tambah
+- fix bug login jabatan
+- fix bug tab per jabatan
 
-### Versi 2.0
-- Tambahan fitur login
-- Perbaikan navbar
-- Rubah tampilan warna perusahaan
+Versi 2.0
+- tambahan fitur login
+- perbaikan navbar
+- rubah tampilan warna perusahaan
 
-### Versi 1.0
-- Penambahan laporan grafik
-- Fitur basic
-
----
-
-## ⚙️ Dokumentasi Teknis Singkat
-
-- **Bahasa Pemrograman:** PHP, JavaScript  
-- **Framework:** Bootstrap untuk front-end  
-- **Database:** MySQL  
-- **Fitur Utama:**  
-  - **Manajemen Pengguna:** Login, Absensi, dan Laporan Grafik  
-  - **UI Modern:** Perbaikan tampilan dan responsif mobile  
-  - **Optimasi Kode:** Perapian kode dan perbaikan bug berbagai modul  
-  - **Integrasi:** Fungsi toggle dan rule jabatan login untuk meningkatkan keamanan dan kenyamanan pengguna
-
----
-
-## 📄 Lisensi
-
-Proyek ini merupakan proyek open source dan dapat digunakan serta dimodifikasi sesuai kebutuhan. Pastikan untuk mencantumkan atribusi kepada **Bot Hunting Company Limited** jika menggunakan sebagian atau seluruh kode.
-
----
-
-> Dibuat dengan semangat inovasi oleh **Bot Hunting Company Limited**  
-> _"Memudahkan manajemen sumber daya manusia di era digital."_
-
+Versi 1.0
+- penambahan laporan grafik
+- fitur basic
